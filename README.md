@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
 <!--
 **kaulhj/kaulhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+다양한 사람들과 서로 협업하며 발전해나가는것을 추구하는 개발자 이학준입니다!
+
+💬소개페이지 : https://spurious-schooner-762.notion.site/b469bcaa6ec1460d9ed4a16a4fd93b5a
