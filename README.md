@@ -132,9 +132,8 @@ Github Link : https://github.com/BicyleWebProject/Backend_Repository
 
 사용한 기술
 
-- Spring Boot - Mybatis를 이용하여 20개의 Rest-API를 개발
+- Spring Boot - Mybatis를 이용하여 Rest-API를 개발
 - AWS 기반 아키텍처 설계 및 구축
-- Jenkins - Docker를 이용한 CI/CD 파이프라이닝 자동화로 기존의 수동적인 Process Kill - 서버 버전관리에 비해 평균 20초 가량의 시간 단축
 - 개발, 상용 서버 분리 구축
 - S3 - RDS - Linux 크론잡을 이용한 주기적 DB백업 자동화
 
