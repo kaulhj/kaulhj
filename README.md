@@ -3,7 +3,7 @@
 
 ### Contact
 
-Email : **lhj69382@naver.com**
+Email : **lhjohn30@gmail.com**
 
 age : 24, 1999년생
 
